@@ -5,6 +5,6 @@
 [![Html](https://img.shields.io/badge/-HTML-red?style=for-the-badge&labelColor=black&logo=html&logoColor=61DBFB)](#) [![css](https://img.shields.io/badge/-css-blue?style=for-the-badge&labelColor=black&logo=tailwind&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&labelColor=black&logo=tailwind&logoColor=white)](#)
  
 
-# 🚀 [LiVE PROJECT LINK](https://incandescent-llama-9a04c7.netlify.app/) 
+# 🚀 [LiVE PROJECT LINK](https://subtle-strudel-f2556f.netlify.app/) 
 
 ![shadeup](./shadeup.png)
